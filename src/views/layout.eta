@@ -1,0 +1,12 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <header>
+      <h2><a href="/">Ryan Kubik<a></h2>
+    </header>
+    <main>
+      <%~ it.body %>
+    </main>
+  </body>
+</html>
