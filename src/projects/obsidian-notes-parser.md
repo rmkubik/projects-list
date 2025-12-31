@@ -1,6 +1,7 @@
 ---
 title: Obsidian Notes Parser
 description: Parses my Obsidian notes
+publishedAt: 2025-01-01
 ---
 
 Parses the books I've read and the games I've played this year into a SQLite DB. I used to track these plays in Notion databases, but had to build my own replacement in Obsidian. The new Obsidian bases don't work quite how I want them to still.
